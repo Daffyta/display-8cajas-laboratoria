@@ -1,0 +1,23 @@
+div{
+	margin: 8px;
+}
+
+.cuadrado{
+	width: 80px;
+	height: 80px;
+	border: solid 1px #000;
+	background-color: #848484;
+}
+.rectangulo{
+  width: 305px;
+  height: 100px;
+	border: solid 1px #000;
+	background-color: #424242;
+}
+
+.bloque{
+	display: block;
+}
+
+.lineal{
+	display: inline-block;
